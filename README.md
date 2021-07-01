@@ -1,10 +1,4 @@
-<p align="center">
-  ![cover](https://user-images.githubusercontent.com/59378841/124046558-99bef200-d9e8-11eb-960d-56cab3294f39.png)
- <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=E51C44&labelColor=0A1033" alt="NLW 06" />
-</p>
-
-
-![cover](.github/cover.png?style=flat)
+![cover](https://user-images.githubusercontent.com/59378841/124046624-c246ec00-d9e8-11eb-9722-d6093663d5f0.png)
 
 
 ## 💻 Projeto
